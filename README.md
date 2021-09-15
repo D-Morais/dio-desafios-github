@@ -1,5 +1,5 @@
 # Desafios da Dio(Digital Innovation One)
-Esse repositório é dedicado aos projetos realizados na **dio**.
+Esse repositório é dedicado aos projetos desenvolvidos na plataforma da **dio**.
 
 ## Projetos
 
