@@ -9,3 +9,4 @@ Esse repositório é dedicado aos projetos desenvolvidos na plataforma da **dio*
 
 **Teste unitários sobre uma API REST com Spring Boot para estoque de cervejas:** [API - beerstock](https://github.com/D-Morais/dio-desafios-github/tree/main/API%20-%20beerstock)
 
+**Clone da netflix utilizando HTML/CSS/JAVASCRIPT:** [Clone - Netflix](https://github.com/D-Morais/dio-desafios-github/tree/main/Clone-Netflix)
